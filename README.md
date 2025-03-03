@@ -20,7 +20,7 @@ Always eager to learn, build, and innovate!
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/denis-souza-b534b7351/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-souza-b534b7351/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/N4ndu098)
 
 🚀 Let's build something amazing together!
